@@ -1,0 +1,1 @@
+"# typescript SCHOOL OF NET" 
